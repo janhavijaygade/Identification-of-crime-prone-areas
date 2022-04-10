@@ -1,0 +1,2 @@
+# Identification-of-crime-prone-areas
+The goal of analysis of crime prone areas is to identify and analyze patterns and trends in crime in specific regions. It is possible to identify regions with a high probability for crime occurrence and view crime-prone areas using our system. Computerized crime data analysis can aid law enforcement agencies in solving crimes quicker as a result of the increasing use of computers. We can discover previously unknown, useful information from an unstructured dataset using data mining techniques.
