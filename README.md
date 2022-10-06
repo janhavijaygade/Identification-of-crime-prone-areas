@@ -13,7 +13,7 @@ The algorithm requires specifying k number of clusters in advance. It is unable 
 It requires epsilon (Eps) as one parameter value and minimum number points as the other parameter. (MinPts).It begins with a random point as its starting point. It then identifies and joins all the nearby points within distance Eps of that particular starting point. 
 A cluster is formed when the number of nearby points joined is greater than or equal to MinPts. If the nearby points is less than the minimum number of points the particular starting point is declared as noise. The start point is then marked as visited. 
 The algorithm repeats the evaluation process for all the neighbors’ repeatedly. If the number of neighboring nodes is less than MinPts, the point is marked as noise. 
-#Group members:
+# Group members:
 1. Janhavi Jeevan Jaygade
 2. Mukadam Suha Mohamed Husain
 3. Rahul Kaushal Prasad
